@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pablofelchle
 - 👀 I’m interested in QA/Ethical Hacking/Virtualization
-- 🌱 I’m currently learning Penetration Testing
-- 📫 How to reach me pablofelchle@gmail.com
+- 🌱 I’m currently learning Automation Testing
+- 📫 Reach me @ https://www.linkedin.com/in/pablofelchle
 
 <!---
 pablofelchle/pablofelchle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
